@@ -11548,16 +11548,6 @@ typedarray@^0.0.6:
   resolved "https://registry.yarnpkg.com/typedarray/-/typedarray-0.0.6.tgz#867ac74e3864187b1d3d47d996a78ec5c8830777"
   integrity sha1-hnrHTjhkGHsdPUfZlqeOxciDB3c=
 
-typeface-merriweather@0.0.43:
-  version "0.0.43"
-  resolved "https://registry.yarnpkg.com/typeface-merriweather/-/typeface-merriweather-0.0.43.tgz#b615f7aaf5f826c0cf1da7473af7ef28c7c44428"
-  integrity sha512-Oj6V+KabkcU9jKoDm6o4EnZMRodqNzBaKcRZ0/iY/eR6147+hfsiBAoFKOtAXvWPwc2TOtUYuKMSKaoih4Mrng==
-
-typeface-montserrat@0.0.43:
-  version "0.0.43"
-  resolved "https://registry.yarnpkg.com/typeface-montserrat/-/typeface-montserrat-0.0.43.tgz#c70d76b85ab613a9f4855c061c354eac561c1aae"
-  integrity sha512-lWyRVih5jJqZyOAj1+sCj8MijF+roNHrN11eD4fOGpj1dV7nS82kTnYVoz0TIGTu8/Arqw0eCytV1XdFe/i2aw==
-
 typography-breakpoint-constants@^0.16.18:
   version "0.16.18"
   resolved "https://registry.yarnpkg.com/typography-breakpoint-constants/-/typography-breakpoint-constants-0.16.18.tgz#5b1e24a31879662ca0456828b8f8f8158cd2b436"

@@ -40,10 +40,6 @@ function SEO({ description, lang, meta, keywords, title }) {
                 content: `summary`,
               },
               {
-                name: `twitter:creator`,
-                content: data.site.siteMetadata.author,
-              },
-              {
                 name: `twitter:title`,
                 content: title,
               },
@@ -69,7 +65,7 @@ function SEO({ description, lang, meta, keywords, title }) {
 }
 
 SEO.defaultProps = {
-  lang: `en`,
+  lang: 'es',
   meta: [],
   keywords: [],
 };
@@ -90,7 +86,6 @@ const detailsQuery = graphql`
       siteMetadata {
         title
         description
-        author
       }
     }
   }

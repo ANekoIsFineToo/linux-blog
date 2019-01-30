@@ -1,12 +1,13 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
-    author: `Kyle Mathews`,
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
-    social: {
-      twitter: `kylemathews`,
-    },
+    title: 'Nyan nyan',
+    authors: [
+      'Iker Pérez Brunelli',
+      'Alvaro Quiros Mejias',
+      'Victor Jose del Barrio Silva'
+    ],
+    description: 'Blog con la historia, curiosidades y más sobre Linux.',
+    siteUrl: 'https://linux-blog.ikerperez.es/'
   },
   plugins: [
     {
