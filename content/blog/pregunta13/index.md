@@ -62,6 +62,6 @@ Descomprimir el archivo edteam.zip
 
 > $ unzip edteam.zip
 
-Haz click en la imágen para redirigirte a un vídeo que enseña a como comprimir y descomprimir.
-[![Comprimir y descomprimir archivos en linux](https://computernewagedotcom.files.wordpress.com/2015/10/gzip1.png)](https://www.youtube.com/watch?v=wgze3bkhr4A)
+Aquí os ponemos un vídeo que os puede ayudar a comprender como se comprime y descomprime en Linux.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wgze3bkhr4A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
