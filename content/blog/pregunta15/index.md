@@ -3,7 +3,7 @@ title: 15. Procesos. Tipos. Estados. Estructura.
 date: '2019-01-24T15:28:00.000Z'
 ---
 
-# Procesos y estados en Linux
+## Procesos y estados en Linux
 
 Podríamos definir a los procesos como programas que están corriendo en nuestro Sistema Operativo. Dependiendo de la forma en que corren estos programas en LINUX se los puede clasificar en tres grandes categorías:
 - Procesos Normales.
