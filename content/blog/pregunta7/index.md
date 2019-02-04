@@ -1,6 +1,7 @@
 ---
 title: 7. Búsqueda de información del sistema mediante comandos.
-date: '2019-01-27T15:28:00.000Z'
+date: '2019-01-24T15:28:00.000Z'
+templateKey: blog
 ---
 
 # 1. Información del Sistema Operativo

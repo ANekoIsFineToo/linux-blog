@@ -1,6 +1,7 @@
 ---
 title: 11. Ficheros de logs y de configuración del sistema.
-date: '2019-01-25T15:28:00.000Z'
+date: '2019-01-20T15:28:00.000Z'
+templateKey: blog
 ---
 
 # Logs en Linux

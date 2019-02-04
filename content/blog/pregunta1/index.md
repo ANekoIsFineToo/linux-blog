@@ -1,6 +1,7 @@
 ---
 title: 1. Los sistemas operativos Linux. Características. Historia.
 date: '2019-01-30T15:28:00.000Z'
+templateKey: blog
 ---
 
 ## Para entender la popularidad de Linux, necesitamos viajar en el tiempo, hace unos 30 años ...

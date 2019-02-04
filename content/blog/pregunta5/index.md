@@ -1,6 +1,7 @@
 ---
 title: 5. Gestión de enlaces o accesos directos.  
-date: '2019-01-28T15:28:00.000Z'
+date: '2019-01-26T15:28:00.000Z'
+templateKey: blog
 ---
 
 Multitud de personas que se inician en Linux se preguntan como crear lo que en Windows se denomina un acceso directo para poder acceder de forma rápida y cómoda a los programas o ubicaciones de uso más habitual.

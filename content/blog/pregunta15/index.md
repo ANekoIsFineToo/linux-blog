@@ -1,6 +1,7 @@
 ---
 title: 15. Procesos. Tipos. Estados. Estructura.
-date: '2019-01-24T15:28:00.000Z'
+date: '2019-01-16T15:28:00.000Z'
+templateKey: blog
 ---
 
 ## Procesos y estados en Linux

@@ -1,6 +1,7 @@
 ---
 title: 9. Montaje y desmontaje del dispositivo del sistema operativo.
-date: '2019-01-26T15:28:00.000Z'
+date: '2019-01-22T15:28:00.000Z'
+templateKey: blog
 ---
 
 Montar equivale a crear un acceso desde un directorio a una unidad o dispositivo. No significa copiar sino establecer un enlace entre tal directorio y el dispositivo. Desmontarla es eliminar ese enlace. A los usuarios de ms-dos os sonará a algo parecido que se hacía con las unidades comprimidas dblspace o drivespace. Su equivalente en sistemas windows son las unidades virtuales que instalan programas tales como el clone cd, que para poder leer una imagen iso es necesario montarla de un modo similar a como se hace en GNULinux.

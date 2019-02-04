@@ -1,6 +1,7 @@
 ---
 title: 13. Compresión/Descompresión y empaquetado/desempaquetado de datos.
-date: '2019-01-25T15:28:00.000Z'
+date: '2019-01-18T15:28:00.000Z'
+templateKey: blog
 ---
 
 Cuando trabajamos en Linux frecuentemente necesitamos empaquetar y/o comprimir ficheros, en esta entrada del blog te explicaremos como hacerlo.

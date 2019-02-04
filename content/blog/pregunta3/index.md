@@ -1,6 +1,7 @@
 ---
 title: 3. Rutas y nombres de archivos. Estructura jerárquica.
-date: '2019-01-29T15:28:00.000Z'
+date: '2019-01-28T15:28:00.000Z'
+templateKey: blog
 ---
 
 Todo el mundo sabe qué es un archivo ... Es esa "foto", "documento" o "música" que utiliza. Los programas están hechos de archivos, de hecho, todo el sistema operativo Linux es solo una colección de archivos ... Pero, ahora, para la parte rara. ¡No solo es esa foto digital que subiste a tu computadora un archivo, sino que tu monitor es un archivo también! Ya ves, en Linux, todo es un archivo! ¡¡¡GUAU!!! ¿Como puede ser? Tratemos de explicarlo. 
