@@ -19,7 +19,7 @@ Hay varios niveles de prioridad de los mensajes (de menos a más prioritario: de
     - /var/log/kern.log: aquí se almacenan los logs del kernel, generados por klogd.
     - /var/log/auth.log: en este log se registran los login en el sistema, las veces que hacemos su, etc. Los intentos fallidos se registran en líneas con información del tipo invalid password o authentication failure.
     - /var/log/dmesg: en este archivo se almacena la información que genera el kernel durante el arranque del sistema. Podemos ver su contenido con el comando dmesg:
-    - > $ dmesg
+    - `$ dmesg`
 - Los archivos de log crecen y con el tiempo se pueden volver muy extensos, pero no tenemos que preocuparnos porque en /etc/cron.daily (tareas que se ejecutan cada día) está el script /etc/cron.daily/logrotate, (cuyo archivo de configuración es /etc/logrotate.conf), que se encarga de comprimirlos y aplicar una rotación de archivos, añadiéndoles la extensión .1.gz, .2.gz, etc., volviendo a crear uno vacío (cuanto mayor sea el número más antiguo será el log).
 
 ## Monitorizar los logs en la consola
@@ -35,13 +35,13 @@ Para monitorizar los logs en la consola, por ejemplo el archivo /var/log/message
 Los administradores de sistemas utilizan con frecuencia los siguientes comandos para vigilar lo que sucede con sus sistemas. 
 
 - Este comando le mostrará las personas que han iniciado sesión en la computadora hoy y los terminales que están utilizando. 
-    - > $ last
+    - `$ last`
 
 - Este es un comando que usarás mucho si te presionan para obtener espacio en el disco duro. Una vez más, hay muchos programas que se ejecutan gráficamente que le informarán del espacio disponible en su partición de Linux. Pero esta es una forma muy buena, rápida y no gráfica de realizar un seguimiento del espacio en el disco duro. 
-    - > $ df
+    - `$ df`
 
 -  Este es un comando que puede usar si desea saber cuánta memoria RAM tiene libre en su sistema.
-    - > $ free
+    - `$ free`
 
 - Este comando sirve para ver qué procesos se están ejecutando. "Top" es un buen comando para usar cuando quiere ver lo que está haciendo su sistema. 'top' está diseñado para mostrarle cómo se usa su CPU. Le dará una lista bastante completa de todo lo que está sucediendo en su computadora.
-    - > $ top
+    - `$ top`
