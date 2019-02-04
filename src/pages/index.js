@@ -13,11 +13,8 @@ class BlogIndex extends React.Component {
     const posts = data.allMarkdownRemark.edges;
 
     return (
-      <Layout location={this.props.location} title={siteTitle}>
-        <SEO
-          keywords={[`blog`, `gatsby`, `javascript`, `react`]}
-        />
-
+      <Layout title={siteTitle}>
+        <SEO keywords={[`blog`, `gatsby`, `javascript`, `react`]} />
         {<PostsGrid posts={posts} />}
       </Layout>
     );
@@ -33,7 +30,10 @@ export const pageQuery = graphql`
         title
       }
     }
-    allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }) {
+    allMarkdownRemark(
+      sort: { fields: [frontmatter___date], order: DESC }
+      filter: { frontmatter: { templateKey: { eq: "blog" } } }
+    ) {
       edges {
         node {
           excerpt
