@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'Linux & friends',
+    title: 'Linux & Friends',
     authors: [
       'Iker Pérez Brunelli',
       'Alvaro Quiros Mejias',
