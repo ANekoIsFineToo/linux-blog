@@ -1,6 +1,6 @@
 ---
 title: 2. Sistemas de archivos de Linux.
-date: '2019-01-290T15:28:00.000Z'
+date: '2019-01-29T15:28:00.000Z'
 templateKey: blog
 ---
 
