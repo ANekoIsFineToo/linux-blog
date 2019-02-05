@@ -134,17 +134,11 @@ Luego de analizar los comandos se puede realizar una evaluación al sistema, ade
 ####4.- Conclusión
 Se adquieren conocimientos sobre el funcionamiento de los comandos de monitorización de rendimiento de Linux, de esta manera se puede decidir correctamente que comandos utilizar ante cualquier situación que se presente en el SO.
 
-
-
-
-
-
-
- **enlace a Linux Monitorización de rendimiento**
+**Enlace a Linux Monitorización de rendimiento**
 
 http://www.dsi.uclm.es/personal/AntonioBueno/ESI/monitor%20en%20linux.pdf 
 
 
- **enlace a GOTOP, otra aplicacion para monitorizar la actividad en Linux**
+**Enlace a GOTOP, otra aplicacion para monitorizar la actividad en Linux**
  
-https://protegermipc.net/2018/04/24/monitorizar-actividad-del-sistema-en-linux-con-gotop/
+https://protegermipc.net/2018/04/24/monitorizar-actividad-del-sistema-en-linux-con-gotop/ 

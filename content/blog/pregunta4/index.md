@@ -1,5 +1,5 @@
 ---
-title: 4. Sistemas de archivos de Linux.
+title: 4. Gestión de sistemas de archivos mediante comandos.
 date: '2019-01-27T15:30:00.000Z'
 templateKey: blog
 ---
