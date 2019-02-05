@@ -120,3 +120,5 @@ templateKey: page
 - https://protegermipc.net/2018/04/24/monitorizar-actividad-del-sistema-en-linux-con-gotop/
 
 ---
+
+<img src="QYjhVX7.gif" aling="middle" style="position: relative; display: block; margin-left: auto; margin-right: auto; z-index: 1;">
