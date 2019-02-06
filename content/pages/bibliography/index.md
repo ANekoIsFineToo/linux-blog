@@ -121,4 +121,4 @@ templateKey: page
 
 ---
 
-<img src="QYjhVX7.gif" aling="middle" style="position: relative; display: block; margin-left: auto; margin-right: auto; z-index: 1;">
+<img src="smugDance.gif" aling="middle" style="position: relative; display: block; margin-left: auto; margin-right: auto; z-index: 1;">
